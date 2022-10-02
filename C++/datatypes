@@ -1,0 +1,11 @@
+integer is of 4 bytes in c++
+characters is of 1 bytes in c++
+INT USNIGNED 0 TO 2^32-1
+MSB TELLS SIGN OF integer
+SIGNED  -2^31 TO 2^31-1
+FLOAT=4 BYTES
+DOUBLE=8BYTES
+long=8BYTES
+short=2bytes
+CHAR HAS ASCII CODE which is decimal code
+boolean has 0 or 1 which occupies 1 byte
